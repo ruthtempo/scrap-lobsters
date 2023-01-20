@@ -24,6 +24,6 @@ Here I created my own scraper function that is then used to display some data.
 - Fork the project
 - Clone the project
 - Navigate to the project directory
-- Install the dependencies npm install
+- Install the dependencies `npm install`
 - Run the project `npm start`
 - Open http://localhost:3000 to view it in your browser.
